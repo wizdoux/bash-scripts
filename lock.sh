@@ -1,1 +1,1 @@
-i3lock -u -i ~/Downloads/lock.png
+i3lock -u -i ~/lock.png

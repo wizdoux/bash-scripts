@@ -4,9 +4,6 @@
 
 set $mod Mod4
 
-# set wallpaper
-exec feh --bg-scale ./Downloads/krita.png 
-
 # Font for window titles. Will also be used by the bar
 font pango:monospace 8
 
