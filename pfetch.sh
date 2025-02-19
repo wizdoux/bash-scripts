@@ -1,1 +1,1 @@
-echo ""; EDITOR="neovim" PF_ASCII="linux" PF_INFO="ascii title os shell editor de palette" pfetch;
+echo ""; XDG_CURRENT_DESKTOP="i3" PF_ASCII="linux" EDITOR="neovim" PF_INFO="ascii title host shell editor de palette" pfetch;
