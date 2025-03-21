@@ -1,5 +1,5 @@
 i3 config: default
 
-nvim theme: default dark
+nvim theme: slate
 
 kitten theme: orwelllian
