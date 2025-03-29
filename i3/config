@@ -1,0 +1,10 @@
+# run i3-config-wizard
+# and add these lines on your config
+
+# no app text
+default_border none 
+# lock
+bindsym $mod+x exec i3lock -u -i ~/lock.png
+# gaps
+gaps inner 3px
+

@@ -36,13 +36,12 @@
   # Configure console keymap
   console.keyMap = "br-abnt2";
 
-  # Define a user account. Don't forget to set a password with ‘passwd’.
+  # Define a user account.
   users.users.alan = {
     isNormalUser = true;
     extraGroups = [ "networkmanager" "wheel" ];
     packages = with pkgs; [
-      i3status i3lock dmenu kitty 
-      neovim xclip git firefox
+      # Add your desired packages here
     ];
   };
 

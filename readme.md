@@ -1,5 +1,5 @@
-i3 config: default
+tema: Adapta Nokto Maia
 
-nvim theme: slate
+i3: janelas simples
+i3status: exibe a bateria e relogio 
 
-kitten theme: orwelllian
